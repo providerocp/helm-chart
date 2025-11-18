@@ -17,9 +17,13 @@ O mesmo deve ser versionado seguindo o padrão SemVer.
 * Não esqueça de incrementar sua versão
 * Escrever um commit claro da mudança
 
-## Como implementar
+## Como implementar (GCP)
 
 Após mudanças, subi versão no Chart.yaml e subi o código para a pipeline publicar a nova versão.
+
+
+## Como implementar GITHUB
+
 
 
 
