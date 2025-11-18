@@ -24,6 +24,12 @@ Após mudanças, subi versão no Chart.yaml e subi o código para a pipeline pub
 
 ## Como implementar GITHUB
 
+Validar pacote:
+helm template charts/basic-app
 
+Gerar pacote:
+helm package charts/basic-app
 
+Prepara pacote:
+helm repo index --url https://providerocp.github.io/helm-chart .
 
