@@ -3,7 +3,17 @@ entries:
   basic-app:
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.176942541-03:00"
+    created: "2025-12-04T16:38:42.488640734-03:00"
+    description: A Helm chart for simple Kubernetes applications
+    digest: 3ba4769e94eff2802b91c7a1c3f236046707e6045c52e0c543ece2fc3c2a26ec
+    name: basic-app
+    type: application
+    urls:
+    - https://providerocp.github.io/helm-chart/basic-app-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 0.0.12
+    created: "2025-12-04T16:38:42.488284995-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 3552d5fd4af0ee853c6ff5c3c05742f74346d034796703796df0fa78d581defe
     name: basic-app
@@ -13,7 +23,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.175579894-03:00"
+    created: "2025-12-04T16:38:42.487943918-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: cbcf4c490bac6917f8cde62ec05cc12b01dda4a592c1dea8b99c45ae48f44429
     name: basic-app
@@ -23,7 +33,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.175176981-03:00"
+    created: "2025-12-04T16:38:42.487582453-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 78ce55bca3e0847bc4e6b4143261a84d2aa4ac05d61794ebac2b38aca55c964c
     name: basic-app
@@ -33,7 +43,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.174743082-03:00"
+    created: "2025-12-04T16:38:42.487212916-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: b048ac0a46616eea0d2f5d0e90fff5e7e78958123fcba4d98a8550509fb69da0
     name: basic-app
@@ -43,7 +53,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.174334003-03:00"
+    created: "2025-12-04T16:38:42.486723199-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: f46f451b9ff206808273b85bbc2ab0f9498245e70a7c8cc37aba501317e6b900
     name: basic-app
@@ -53,7 +63,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.173951399-03:00"
+    created: "2025-12-04T16:38:42.486075497-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 11089a09fcaaada9e57e1f1f4c7b5c883103684dc03fdeda2e66605209bcdb40
     name: basic-app
@@ -63,7 +73,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.173565135-03:00"
+    created: "2025-12-04T16:38:42.485414198-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 7ed40e303b2df1ed621bb8e6c1f8aa659c110e132e4e6a53a9f67fa5d55ee73d
     name: basic-app
@@ -73,7 +83,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.172808985-03:00"
+    created: "2025-12-04T16:38:42.484778654-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 3fcb404d202c56c3e81856db27c7fa0806a616aa2540c37243ee2b969cc557c4
     name: basic-app
@@ -83,7 +93,7 @@ entries:
     version: 0.0.25
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.172412678-03:00"
+    created: "2025-12-04T16:38:42.484462713-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: eb58384d0cae5fd41f71cac43f1e11aa46251366f3c8e451e47412c11ce620dd
     name: basic-app
@@ -93,7 +103,7 @@ entries:
     version: 0.0.24
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.172037381-03:00"
+    created: "2025-12-04T16:38:42.48414225-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 7a2cbf76685f5e6c054ce6d34c99b261f76f17d573853835343d565d11aed0a0
     name: basic-app
@@ -103,7 +113,7 @@ entries:
     version: 0.0.23
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.171690955-03:00"
+    created: "2025-12-04T16:38:42.483812315-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 8db90e17e98790d89ed4badace074308d8690fc9edfa7c0fdf54d1793651dc03
     name: basic-app
@@ -113,7 +123,7 @@ entries:
     version: 0.0.22
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.171318488-03:00"
+    created: "2025-12-04T16:38:42.483485496-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 9e8db67e40b2bdad07fc9e51fb7d530b6cdf04d3bbcef926caab2daca2e4e2d0
     name: basic-app
@@ -123,7 +133,7 @@ entries:
     version: 0.0.21
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.170928129-03:00"
+    created: "2025-12-04T16:38:42.483146253-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 409dfc470c861aa347c699da94d1ee1440aec9ad0b62e1863463e9d31c12a538
     name: basic-app
@@ -133,7 +143,7 @@ entries:
     version: 0.0.20
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.170532915-03:00"
+    created: "2025-12-04T16:38:42.482800474-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: b952354d7d06cf34b940e7a2482de6aff2c3c8ed68036c2683c3bb5e127ae2ac
     name: basic-app
@@ -143,7 +153,7 @@ entries:
     version: 0.0.19
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.169565491-03:00"
+    created: "2025-12-04T16:38:42.482468856-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 1828f2be04a6c4e549d3e40c6d102ef1ce17ad431e2709a615bbc4f998c7d9b2
     name: basic-app
@@ -153,7 +163,7 @@ entries:
     version: 0.0.18
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.169160983-03:00"
+    created: "2025-12-04T16:38:42.482140437-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: b39e697914c7fa5da99b9b3f9f77071ca73d5a72b72c2fefa53a49d0354a703f
     name: basic-app
@@ -163,7 +173,7 @@ entries:
     version: 0.0.17
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.168823306-03:00"
+    created: "2025-12-04T16:38:42.481821805-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 5cdbf5e06dd6e59b32a0910646feb73002470916f6782421abaccf70a6ca7d4a
     name: basic-app
@@ -173,7 +183,7 @@ entries:
     version: 0.0.16
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.168483857-03:00"
+    created: "2025-12-04T16:38:42.481497602-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 4ec2abb435b8cce1ab9e33f279a7ebfb08e0c54888dce30fb06622b41070e333
     name: basic-app
@@ -183,7 +193,7 @@ entries:
     version: 0.0.15
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.168135951-03:00"
+    created: "2025-12-04T16:38:42.481017252-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: f3e7280459db3705ac49f7d636a384d071eaf9680cceb7483f90754e082a30df
     name: basic-app
@@ -193,7 +203,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.167781581-03:00"
+    created: "2025-12-04T16:38:42.48044631-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: d92b86ed8eeac0e52bb26c7959c3f6672c2df96ec68c9a384774ccdbf70a1869
     name: basic-app
@@ -203,7 +213,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.167410977-03:00"
+    created: "2025-12-04T16:38:42.479690331-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 848c7faa41496cb8fabaa554d14fe313076a8ab8af3a216f96898af54549fa56
     name: basic-app
@@ -213,7 +223,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.167036339-03:00"
+    created: "2025-12-04T16:38:42.478800122-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: c3383ac3d5cb761fd3274d1d57ba73ad8140b9bd7ec26592c5a52ebea1994fbe
     name: basic-app
@@ -223,7 +233,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.166634843-03:00"
+    created: "2025-12-04T16:38:42.478386625-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: c6b7bb0e9478a39557c3d6d3add10345dfcf9dcbe4a6b2f17cf94d85bb229d26
     name: basic-app
@@ -233,7 +243,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2025-12-04T16:32:33.17318168-03:00"
+    created: "2025-12-04T16:38:42.485095456-03:00"
     description: A Helm chart for simple Kubernetes applications
     digest: 3c6f973c8b3e64b6a1d7ec2868245d4efc18c5ee5c6a0e86920504d41fda024e
     name: basic-app
@@ -241,4 +251,4 @@ entries:
     urls:
     - https://providerocp.github.io/helm-chart/basic-app-0.0.9.tgz
     version: 0.0.9
-generated: "2025-12-04T16:32:33.166101133-03:00"
+generated: "2025-12-04T16:38:42.477891458-03:00"

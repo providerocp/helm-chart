@@ -27,9 +27,9 @@ spec:
         {{- include "basic-deployment.selectorLabels" . | nindent 8 }}
     spec:
       initContainers:
-      - name: init-config
-        image: busybox
-        command: ['sh', '-c', 'echo "Waiting for ConfigMap..." && sleep 20']  
+      # - name: init-config
+      #   image: busybox
+      #   command: ['sh', '-c', 'echo "Waiting for ConfigMap..." && sleep 20']  
       {{- if .Values.efsInitContainer.enabled }} 
       - name: {{ include "basic-deployment.name" . }}-wait-for-efs-check
         image: amazonlinux
