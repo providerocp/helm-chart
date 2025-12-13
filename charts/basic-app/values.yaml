@@ -19,6 +19,12 @@ strategy:
     maxSurge: 3
     maxUnavailable: 1
 
+podDisruptionBudget:
+  enabled: true
+  maxUnavailable: 1
+
+terminationGracePeriodSeconds: 30
+
 command: []
 
 args: []
